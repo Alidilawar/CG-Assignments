@@ -1,0 +1,4 @@
+﻿  Quiz 2.cpp
+e:\quiz 2 cg assign\quiz 2 cg assign\quiz 2.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Quiz 2 CG Assign.vcxproj -> E:\Quiz 2 CG Assign\Debug\Quiz 2 CG Assign.exe
+  Quiz 2 CG Assign.vcxproj -> E:\Quiz 2 CG Assign\Debug\Quiz 2 CG Assign.pdb (Full PDB)
